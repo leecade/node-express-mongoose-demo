@@ -16,7 +16,7 @@
     "url" : "https://github.com/madhums/node-express-mongoose-demo.git"
   },
   "engines": {
-    "node": "0.10.x",
+    "node": "10",
     "npm":  "1.2.x"
   },
   "scripts": {
